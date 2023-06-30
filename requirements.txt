@@ -1,0 +1,9 @@
+numpy
+pandas
+Flask
+matplotlib
+seaborn
+plotly
+cufflinks
+scikit-learn
+-e .
